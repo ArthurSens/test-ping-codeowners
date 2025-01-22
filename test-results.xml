@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="1" failures="0" errors="0" time="5.100839">
+	<testsuite tests="1" failures="0" time="1.587000" name="github.com/ArthurSens/test-ping-codeowners" timestamp="2025-01-22T15:10:18-03:00">
+		<properties>
+			<property name="go.version" value="go1.23.1 darwin/arm64"></property>
+		</properties>
+		<testcase classname="github.com/ArthurSens/test-ping-codeowners" name="TestSuccess" time="0.000000"></testcase>
+	</testsuite>
+</testsuites>
